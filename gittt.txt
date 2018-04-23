@@ -1,4 +1,5 @@
 Git is a version control system.
 Git is free software.
 hello git
-sssuck
+i am sorry ,you are soooo good
+now i am learning 'branch'
